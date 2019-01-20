@@ -82,7 +82,6 @@ $customerUdid = array(
 
 "66098f7bb6c6cd9f7778961307523f347735739f",
 "9596abe4f53f85cc10c4bfb91b3b9c5bffea6502",
-$uid,
 "",
 "",
 "",
@@ -129,7 +128,7 @@ Content-Disposition: form-data; name="activation-info"
 --------------------------0edb00d9406ed52e--';
 $_POST['activation-info']  = $data;
 
-$myurl = "https://iboyinctool.com/935.php";
+$myurl = "https://example.com";
 
 $ch = curl_init(); 
 		curl_setopt($ch, CURLOPT_URL , $myurl ); 
