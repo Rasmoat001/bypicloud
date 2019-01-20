@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivationRandomness</key>
+	<string>1F6C4A75-4F42-45F0-8DBE-2C6D9C70D18B</string>
+	<key>ActivationState</key>
+	<string>Unactivated</string>
+	<key>BuildVersion</key>
+	<string>13G36</string>
+	<key>DeviceCertRequest</key>
+	<data>
+	LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0KTUlJQnhEQ0NBUzBDQVFB
+	d2dZTXhMVEFyQmdOVkJBTVRKRVkxUkVaRVJqZEZMVFUxUkVNdE5EQkJRaTA1TkRBMA0K
+	TFRKRk1VRkNPVGMzT1RKR1JqRUxNQWtHQTFVRUJoTUNWVk14Q3pBSkJnTlZCQWdUQWtO
+	Qk1SSXdFQVlEVlFRSA0KRXdsRGRYQmxjblJwYm04eEV6QVJCZ05WQkFvVENrRndjR3hs
+	SUVsdVl5NHhEekFOQmdOVkJBc1RCbWxRYUc5dQ0KWlRDQm56QU5CZ2txaGtpRzl3MEJB
+	UUVGQUFPQmpRQXdnWWtDZ1lFQWxHNXdySGk1cGFZMEYrVS9ka1pDdE16SA0KY1FLZTZw
+	S0J2UXpDOUN5MmZ1LzVtS0dEOFBKd1pOdG1zSnBjN1Z6a1lzRlo2TnloN2JhRjI3MnJi
+	a0xOS0Z3Tw0KM0k3ZVRqNHk5Q1RKYW4xZmQ2RExGTXRZY3hqbUZBZk1pUUI2RVV0THRI
+	Wk1xLzZ5KzkyVW55RnU3WkNhTW5CVw0KeXhsdmFRdTF6dG1lRHBsWWdMY0NBd0VBQWFB
+	QU1BMEdDU3FHU0liM0RRRUJCUVVBQTRHQkFJeTZqdVBySUx3Mw0KbThkZFlrK3V1Ujdu
+	SFY0N2MvMmlsaG55MTB5T0hOMlU4aXk3MkdobnU5bFdyRmZoRW56TEJRZkJ3bHg4MG8v
+	VA0KVlJyTlF4ZEw4clhHS3Z1b1FqNWRFSFM5RkhTb1pRZkFaSVRtNTRVb3Q5TGxWc0Ji
+	Y3Y5WjB1YlpHNFBYQktvQQ0KZ2RYYjdVYWVDTXh1S0tEYktYVXM0Ymo4UFdaZmhGVlEK
+	LS0tLS1FTkQgQ0VSVElGSUNBVEUgUkVRVUVTVC0tLS0tCg==
+	</data>
+	<key>DeviceClass</key>
+	<string>iPad</string>
+	<key>DeviceVariant</key>
+	<string>A</string>
+	<key>FMiPAccountExists</key>
+	<false/>
+	<key>ModelNumber</key>
+	<string>MC769</string>
+	<key>OSType</key>
+	<string>iPhone OS</string>
+	<key>ProductType</key>
+	<string>iPad2,4</string>
+	<key>ProductVersion</key>
+	<string>9.3.5</string>
+	<key>RegionCode</key>
+	<string>LL</string>
+	<key>RegionInfo</key>
+	<string>LL/A</string>
+	<key>SerialNumber</key>
+	<string>F5RK8ENHDFHW</string>
+	<key>UniqueChipID</key>
+	<integer>2211623382286</integer>
+	<key>UniqueDeviceID</key>
+	<string>9596abe4f53f85cc10c4bfb91b3b9c5bffea6502</string>
+</dict>
+</plist>

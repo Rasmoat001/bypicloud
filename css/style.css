@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "raleway";
+    src: url("../css/fonts/raleway.ttf") format("truetype");}
+    
+body {
+    font-family: 'raleway';
+}
+.main-section{
+    margin-top: 55px;
+}
+.flexbox-area{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+.buttoning{
+    width: 200px;
+    border-radius: 30px;
+}
+.form-control{
+    border-radius: 10px;
+}
+@media only screen and (max-width: 600px){
+    .front-img {
+        height: 106%;     
+      }
+
+}
+.para{
+    margin-top: -3px;
+}
+h3{
+    font-weight: bold;
+}
